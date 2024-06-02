@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: api
+  datasource:
+    url: jdbc:mysql://localhost/myvidlist_api
+    username: leonardo
+    password: 3UsSolHiE9KR0addsouopoYjRIERH8GQRxih0XRATAqSmirnJr
+    driver-class-name: com.mysql.cj.jdbc.Driver
